@@ -17,5 +17,5 @@ mv ~/.cache/nvim{,.bak}
 ```
 Clone the repo down
 ```
-git clone https://github.com/klaborda ~/.config/nvim
+git clone https://github.com/klaborda/neovim ~/.config/nvim
 ```
