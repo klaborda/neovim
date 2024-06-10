@@ -141,6 +141,8 @@ return {
     opts = {
       ensure_installed = {
         "bash",
+        "clojure",
+        "fennel",
         "html",
         "javascript",
         "json",
